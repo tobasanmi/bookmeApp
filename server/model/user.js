@@ -28,9 +28,9 @@ password:{
   required:true,
   min:6
 },
-// adminCode:{
-//   type: String,
-// },
+adminCode:{
+  type: String,
+},
 isAdmin:{
   type:Boolean,
   default:false
